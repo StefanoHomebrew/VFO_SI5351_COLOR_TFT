@@ -26,6 +26,7 @@
   * a RX/TX Vfo for Radio's Homebrewing 
   * 
   * Library: 
+  * Metro library: https://github.com/thomasfredericks/Metro-Arduino-Wiring
   * Tft Display https://github.com/adafruit/Adafruit_ILI9341
   * Tft Display Graphics  https://learn.adafruit.com/adafruit-gfx-graphics-library/overview
   * Rotary Encoder https://github.com/brianlow/Rotary
