@@ -508,7 +508,7 @@ void grafica(){
       tft.setCursor(2, 232);
       tft.setTextColor(WHITE);
       tft.setTextSize(1);
-      tft.print("File:VFO_ARDUINO_NANO_TFT_DISPLAY_REV_1"); // VERSIONE DEL SOFTWARE CARICATO
+      tft.print("File:TFT_DISPLAY_REV_1_NO_METRO"); // VERSIONE DEL SOFTWARE CARICATO
       
       tft.fillRoundRect(2, 155, 310, 60,5,ILI9341_RED); 
       tft.setCursor(40,162); 
